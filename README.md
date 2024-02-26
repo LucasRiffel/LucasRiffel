@@ -1,7 +1,7 @@
 
 <p align="center">
 <a href="http://www.github.com/LucasRiffel">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LucasRiffel&show_icons=true&hide=&count_private=false&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000300&hide_border=false&show_icons=true" alt="LucasRiffel's GitHub stats" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LucasRiffel&show_icons=true&hide=&count_private=false&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000300&hide_border=false&show_icons=true" alt="LucasRiffel's GitHub stats"/>
 </a>
 <a href="https://github.com/LucasRiffel">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRiffel&langs_count=15&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000300&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
